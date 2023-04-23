@@ -79,3 +79,14 @@ Start time: 7pm_____
 Finish time: _9pm____
 
 Actual time needed to complete: ___2 hours__
+
+Number and name of feature: _display Modal___________________________
+
+Estimate of time needed to complete: __4___
+
+Start time: 9pm____
+
+Finish time: 11:30pm____
+
+Actual time needed to complete: ___2 hours_and half_
+
